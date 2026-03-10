@@ -97,7 +97,7 @@ p {
 	display: inline-flex;
 	align-items: center;
 	justify-content: flex-start;
-	height: 78px;
+	height: 100px;
 	flex-shrink: 0;
 	padding: 0.25rem 0;
 }
@@ -112,9 +112,9 @@ p {
 
 .logo-image {
 	display: block;
-	height: 58px;
+	height: 100px;
 	width: auto;
-	max-width: 210px;
+	max-width: 290px;
 	object-fit: contain;
 	object-position: left center;
 	transform: translateY(1px);
@@ -562,18 +562,17 @@ p {
 	}
 
 	.logo {
-		height: 64px;
+		height: 100px;
 	}
 
 	.logo-image {
-		height: 42px;
+		height: 100px;
 		max-width: 150px;
 		transform: none;
 	}
 
 	.nav-right {
-		margin-left: auto;
-		gap: 0;
+    gap: 0;
 	}
 
 	.menu-toggle {
